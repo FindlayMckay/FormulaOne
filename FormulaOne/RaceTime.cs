@@ -2,7 +2,7 @@
  * FormulaOne by Craig McKay <craig@southesk.com>
  * 
  * Who      When         Issue          Description
- * craig    26-Sep-2016  #              File created
+ * craig    26-Sep-2016  #1             File created
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 using System.Windows.Forms;
 using System.IO;
